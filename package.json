@@ -1,0 +1,14 @@
+{
+  "name": "buy-ps5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shaopeng Wang <spxwang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "alert-text-removed": "node index.js"
+  }
+}
